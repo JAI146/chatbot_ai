@@ -42,7 +42,6 @@ cd ~/Desktop/project_chatbot
 pip install -r requirements.txt
 ` ```` `
 
----
 
 ### 4️⃣ How to Run the Chatbot
 
