@@ -40,8 +40,8 @@ Run these commands in your terminal:
 ````bash
 cd ~/Desktop/project_chatbot
 pip install -r requirements.txt
-` ```` `
-
+````
+---
 
 ### 4️⃣ How to Run the Chatbot
 
@@ -49,7 +49,7 @@ Once dependencies are installed and your `.soonerai.env` file is created, run:
 
 ```bash
 python3 spongebob_cli.py
-
+```
 ---
 
 ### Example Transcript
