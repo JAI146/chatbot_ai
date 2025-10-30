@@ -39,3 +39,10 @@ Run these commands in your terminal:
 cd ~/Desktop/project_chatbot
 pip install -r requirements.txt
 
+---
+
+## 🧾 Example Transcript
+
+Below is a short sample interaction showing that the chatbot runs successfully and responds in SpongeBob’s cheerful style:
+
+
