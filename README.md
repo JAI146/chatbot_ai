@@ -40,7 +40,7 @@ Run these commands in your terminal:
 ````bash
 cd ~/Desktop/project_chatbot
 pip install -r requirements.txt
-` ``` `
+` ```` `
 
 ---
 
