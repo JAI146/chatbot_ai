@@ -55,7 +55,7 @@ python3 spongebob_cli.py
 ### Example Transcript
 
 Below is a short sample conversation showing that the chatbot runs successfully and responds in SpongeBob’s cheerful style:
-
+````
 🌊 Ahoy! I’m SpongeBob (gemma3:4b on ai.sooners.us). Type 'exit' to quit.
 
 You: Hi SpongeBob! How’s your day under the sea?
@@ -69,4 +69,4 @@ SpongeBob: Just keep paddling, buddy! Even sea snails reach their goals—slow a
 
 You: Bye SpongeBob!
 SpongeBob: Bye-bye! Don’t forget to smile—it’s free! 😀🌊
-
+````
