@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧾 Example Transcript
+### 4 Example Transcript
 
 Below is a short sample interaction showing that the chatbot runs successfully and responds in SpongeBob’s cheerful style:
 
