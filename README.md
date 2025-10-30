@@ -69,4 +69,4 @@ SpongeBob: Just keep paddling, buddy! Even sea snails reach their goals—slow a
 
 You: Bye SpongeBob!
 SpongeBob: Bye-bye! Don’t forget to smile—it’s free! 😀🌊
-````
+
